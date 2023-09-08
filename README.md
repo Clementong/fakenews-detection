@@ -1,9 +1,6 @@
 # MediumArticles
 Link : https://medium.com/clement-ong/fake-news-detection-4713eb3b1cd6
 
-# Kaggle 
-Link : 
-
 ## Fake News Detection 
 The advances in information technology and the rapid growth of social media have increased the spread of fake news. Fake news is defined as conspiracy theories and news with the intention of spreading misinformation. This repository contains the code where the team explored the used of feature curation and an esembled model to perform fake news detection. 
 
